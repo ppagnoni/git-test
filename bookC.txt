@@ -1,5 +1,6 @@
-line hello 000
+line hello 00090
 line 2 added
 This script will assume the PID provided as the root and display 
 its information with the com_mand asdfd   I don't know how to
-tool 'PupazzaSozza' is the main cmd.
+its information with the command that I don't know how to
+tool 'ps' is the main cmd.
