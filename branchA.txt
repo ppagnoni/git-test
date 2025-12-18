@@ -1,2 +1,1 @@
-new branchA.txt
-conflict!!!
+new branchA.txt conflict fixed!!!
